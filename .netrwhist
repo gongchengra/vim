@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/wwwroot/phpwind/themes/site/default/css'
+let g:netrw_dirhist_2='/home/wwwroot/phpwind/themes/extres'
+let g:netrw_dirhist_3='/home/wwwroot/phpwind/themes/forum'
+let g:netrw_dirhist_4='/home/wwwroot/phpwind/themes/forum/default'
+let g:netrw_dirhist_5='/home/wwwroot/phpwind/themes/forum/default/images'
+let g:netrw_dirhist_6='/home/wwwroot/phpwind/themes/site'
